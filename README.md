@@ -19,3 +19,6 @@
     
 
 *Calculate the success rate
+
+Needs further improvements for optimization
+Needs bug fix. It calculates the same result for LBP and HSV_LBP.
